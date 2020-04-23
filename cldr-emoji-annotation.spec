@@ -1,14 +1,14 @@
 Summary:	Emoji annotation files in CLDR
 Summary(pl.UTF-8):	Pliki adnotacji Emoji z CLDR
 Name:		cldr-emoji-annotation
-Version:	36.12.120191002_0
+Version:	36.12.120200305_0
 Release:	1
 # Annotation files are in Unicode license
 License:	LGPL v2+, Unicode
 Group:		Libraries
 #Source0Download: https://github.com/fujiwarat/cldr-emoji-annotation/releases
 Source0:	https://github.com/fujiwarat/cldr-emoji-annotation/releases/download/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	78b9f30e4251d1978cd67dfc32512ac9
+# Source0-md5:	cedb83b572e4514f2ac859b9ddcd8a07
 URL:		https://github.com/fujiwarat/cldr-emoji-annotation
 BuildRequires:	rpmbuild(macros) >= 1.446
 BuildArch:	noarch
